@@ -7,3 +7,4 @@
 * Wash
 * Clean
 * Cut
+  new instruction
